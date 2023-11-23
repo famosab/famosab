@@ -8,9 +8,9 @@
 famosab/famosab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, my name is Famke and I am a Bioinformatics and Nano-Science master student at the University of Tuebingen. 
+Hi, my name is Famke and I am a Bioinformatian working at the [Quantitative Biology Center (QBiC)](https://uni-tuebingen.de/en/research/research-infrastructure/quantitative-biology-center-qbic/) at the University of Tuebingen. 
 
-I am currently working on genome scale metabolic models of pathogenic bacteria. 
+<!----I am currently working on genome scale metabolic models of pathogenic bacteria. --->
 Most of my free time is dedicated to science-communication: I am part of the [Faktor14 magazine](https://www.faktor14magazin.de/) 
 and the [StudSciCom initiative](https://www.stud-scicom.de/).
 
