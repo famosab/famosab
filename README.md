@@ -7,9 +7,9 @@
 
 famosab/famosab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=famosab&count_private=true&theme=github_dark&showicons=true&hide=stars)]()
 --->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=famosab&count_private=true&theme=github_dark&showicons=true&hide=stars)]()
+
 Hi, my name is Famke and I am a Bioinformatian working at the [Quantitative Biology Center (QBiC)](https://uni-tuebingen.de/en/research/research-infrastructure/quantitative-biology-center-qbic/) at the University of Tuebingen. 
 
 <!----I am currently working on genome scale metabolic models of pathogenic bacteria. --->
