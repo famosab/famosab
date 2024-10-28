@@ -18,3 +18,5 @@ I used to spend a lot of time with science-communication: Check out the [Faktor1
 and the [StudSciCom initiative](https://www.stud-scicom.de/).
 
 You can find more information about me on my [LinkedIn profile](https://www.linkedin.com/in/famke-b%C3%A4uerle-b2123a198/).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famosab&hide_progress=true)
