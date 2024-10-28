@@ -19,7 +19,4 @@ and the [StudSciCom initiative](https://www.stud-scicom.de/).
 
 You can find more information about me on my [LinkedIn profile](https://www.linkedin.com/in/famke-b%C3%A4uerle-b2123a198/).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famosab&layout=compact)
-<!----
-&count_private=true)
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famosab&layout=compact&count_private=true)
