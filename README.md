@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, my name is Famke and I am a Bioinformatian working at the [Quantitative Biology Center (QBiC)](https://uni-tuebingen.de/en/research/research-infrastructure/quantitative-biology-center-qbic/) at the University of Tuebingen. 
 
-I mainly focus on cancer genomics, variant calling and variant interpretation.
+I mainly focus on cancer genomics, variant calling and variant interpretation. You can find the relevant repositories pinned :)
 
 <!----I am currently working on genome scale metabolic models of pathogenic bacteria. --->
 I used to spend a lot of time with science-communication: Check out the [Faktor14 magazine](https://www.faktor14magazin.de/) 
